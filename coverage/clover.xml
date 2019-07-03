@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1562189075205" clover="3.2.0">
+  <project timestamp="1562189075205" name="All files">
+    <metrics statements="23" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="31" coveredelements="29" complexity="0" loc="23" ncloc="23" packages="1" files="2" classes="2"/>
+    <file name="api.bcb.js" path="C:\Users\Jonatan\Documents\devpleno\fullstack\convert-my-money\lib\api.bcb.js">
+      <metrics statements="18" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+    </file>
+    <file name="convert.js" path="C:\Users\Jonatan\Documents\devpleno\fullstack\convert-my-money\lib\convert.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
